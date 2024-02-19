@@ -1,0 +1,44 @@
+/* Adicione os estilos específicos aqui */
+#game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1200px;
+}
+
+.options-container {
+    display: flex;
+    gap: 16px;
+    margin-top: 16px;
+}
+
+img {
+    width: 420px;
+}
+
+/* Defina a margem entre os parágrafos */
+p {
+    margin-bottom: 8px;
+    text-align: justify;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+.option {
+    cursor: pointer;
+    transition: border 0.3s ease-in-out;
+    width: 200px; /* Ajuste conforme necessário */
+    margin-bottom: 16px;
+}
+
+.option:hover {
+    border: 2px solid #3498db;
+}
+
+/* Centraliza o texto acima das opções */
+#options-text {
+    text-align: center;
+    margin-bottom: 16px;
+}
