@@ -3,3 +3,8 @@ Atividade Avaliativa 1 da disciplina Tópicos Especiais Em Inteligência Artific
 
 ## Integrantes
 - Lucas Andrade Cruz
+
+## Ferramentas
+- Chat GPT: Geração de código, da história e dos prompts utilizados no Bing Copilot Designer.
+- Bing Copilot Designer: Geração de imagens.
+- Speechify: Narração.
